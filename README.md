@@ -1,4 +1,4 @@
-Comprehensive Quantitative Analysis of Stock Market Data
+#### Comprehensive Quantitative Analysis of Stock Market Data
 
 ### Project Overview
 This project aimed to perform a comprehensive quantitative analysis of stock market data using various statistical and inferential techniques. The analysis included descriptive statistics, time series analysis, volatility analysis, correlation analysis, comparative analysis, advanced metrics (Sharpe Ratio, Beta, CAGR), and inferential statistics with hypothesis testing. The primary goal was to derive meaningful insights about the performance, risk, and relationships of different stocks.
