@@ -42,7 +42,6 @@ The percentage change in closing prices from the start to the end of the period 
 
 ### Advanced Metrics
 - *Sharpe Ratio*: Indicates the risk-adjusted return. Higher values are better.
-- *Beta*: Measures the stock's volatility in relation to the market. A beta of 1 indicates that the stock moves with the market.
 - *CAGR*: Compound Annual Growth Rate shows the mean annual growth rate of an investment over a specified period of time longer than one year.
 
 ### Inferential Statistics and Hypothesis Testing
