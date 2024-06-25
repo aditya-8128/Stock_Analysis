@@ -62,5 +62,3 @@ Based on the analyses performed, the following conclusions were drawn:
 - *Performance Comparison*: MSFT showed the best performance over the period with a significant positive change, while NFLX had the worst performance with a notable decline.
 - *Advanced Metrics*: MSFT had the highest Sharpe ratio, indicating the best risk-adjusted return. NFLX had the highest beta, suggesting higher market-related volatility.
 - *Hypothesis Testing*: No significant difference in the daily returns across different stocks, and the daily returns generally followed a normal distribution.
-
-This comprehensive analysis provided valuable insights into the performance, risk, and relationships of different stocks, aiding in making informed investment decisions.
