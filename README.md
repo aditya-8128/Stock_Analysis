@@ -59,5 +59,5 @@ Based on the analyses performed, the following conclusions were drawn:
 - *Volatility Analysis*: NFLX was the most volatile stock, suggesting higher risk.
 - *Correlation Analysis*: AAPL and MSFT had higher positive correlations, implying that their prices tend to move together.
 - *Performance Comparison*: MSFT showed the best performance over the period with a significant positive change, while NFLX had the worst performance with a notable decline.
-- *Advanced Metrics*: MSFT had the highest Sharpe ratio, indicating the best risk-adjusted return. NFLX had the highest beta, suggesting higher market-related volatility.
+- *Advanced Metrics*: MSFT had the highest Sharpe ratio, indicating the best risk-adjusted return. 
 - *Hypothesis Testing*: No significant difference in the daily returns across different stocks, and the daily returns generally followed a normal distribution.
